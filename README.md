@@ -23,7 +23,7 @@ The goal of this project was to develop a system capable of identifying authors 
 
 ## Technical Information 🛠️
 
-- **Data Collection**: Datasets used include IMDb62 and CCAT10.
+- **Data Collection**: CCAT10 dataset.
 - **Image Creation**: Text data was converted into CGR images using a base-4 system and Wolfram Alpha for processing.
 - **Model Training**: A deep learning neural network was constructed, trained, and tested for author identification.
 - **Tools Used**: Python, TensorFlow, GANs for data augmentation, Wolfram Alpha.
